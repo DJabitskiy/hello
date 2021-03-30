@@ -7,10 +7,10 @@ public class HelloWorld {
 		String d;
 		c=a+b;
 		System.out.println("a = " + a);
-		System.out.println("b= " + b);
-		System.out.println("значит с = " + c);
+		System.out.println("b = " + b);
+		System.out.println("Р·РЅР°С‡РёС‚ СЃ = " + c);
 		d="sdf"+a*b;
-		System.out.println(c);
+		System.out.println(b);
 		System.out.println(d);
 		
 	}
