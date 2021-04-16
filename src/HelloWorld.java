@@ -13,6 +13,10 @@ public class HelloWorld {
 		System.out.println(b);
 		System.out.println(d);
 		
+		speech myspeech = new speech();
+		myspeech.hello();
+		
+
 	}
 
 }
